@@ -1,2 +1,2 @@
-# base-backend-server
-Base code for a backend server having JWT based authentication and role based authorization
+# Anatomy Pro
+A repo for the Anatomy Pro project
