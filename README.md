@@ -1,2 +1,2 @@
-# Anatomy Pro
-A repo for the Anatomy Pro project
+# Infini Train
+A repo for the Infini Train project
